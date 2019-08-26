@@ -16,5 +16,6 @@
 
 |  No  | Title |  Solution       |  Sharer |
 | ---- | ----- | --------------- | --------|
+| 895 | Maximum Frequency Stack | [C++](https://hackmd.io/@Rance/S1i3pnc4S) | Rance |
 | 144 | Binary Tree Preorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance |
 | 145 | Binary Tree Postorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance |
