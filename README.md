@@ -19,3 +19,4 @@
 | 895 | Maximum Frequency Stack | [C++](https://hackmd.io/@Rance/S1i3pnc4S) | Rance | Hard |
 | 144 | Binary Tree Preorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance | Medium |
 | 145 | Binary Tree Postorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance | Hard |
+| 301 | Remove Invalid Parentheses | [C++](https://hackmd.io/@thisistt/HJHAUfzBr) | TT | Hard |
