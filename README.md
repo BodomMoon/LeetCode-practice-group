@@ -20,3 +20,11 @@
 | 144 | Binary Tree Preorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance | Medium |
 | 145 | Binary Tree Postorder Traversal | [C++](https://hackmd.io/@Rance/ryPYlkerS) | Rance | Hard |
 | 301 | Remove Invalid Parentheses | [C++](https://hackmd.io/@thisistt/HJHAUfzBr) | TT | Hard |
+
+## 9/9 
+
+* [wiki](https://docs.google.com/document/d/1qDy_fctA5cWag28PVa3kq2N_XUY5hDmXYvBXk2WIe5k/edit)
+
+|  No  | Title |  Solution       |  Sharer | Difficulty |
+| ---- | ----- | --------------- | --------| ---------- |
+| 1183 | Maximum Number of Ones | [C++](https://hackmd.io/@Rance/BJny6Xp8S) | Rance | Hard |
