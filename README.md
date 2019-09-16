@@ -28,3 +28,4 @@
 |  No  | Title |  Solution       |  Sharer | Difficulty |
 | ---- | ----- | --------------- | --------| ---------- |
 | 1183 | Maximum Number of Ones | [C++](https://hackmd.io/@Rance/BJny6Xp8S) | Rance | Hard |
+| 488 | Zuma Game |  | TT | Hard |
