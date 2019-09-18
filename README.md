@@ -29,3 +29,11 @@
 | ---- | ----- | --------------- | --------| ---------- |
 | 1183 | Maximum Number of Ones | [C++](https://hackmd.io/@Rance/BJny6Xp8S) | Rance | Hard |
 | 488 | Zuma Game |  | TT | Hard |
+
+## 9/18
+
+<!-- * [wiki](https://docs.google.com/document/d/1qDy_fctA5cWag28PVa3kq2N_XUY5hDmXYvBXk2WIe5k/edit) -->
+
+|  No  | Title |  Solution       |  Sharer | Difficulty |
+| ---- | ----- | --------------- | --------| ---------- |
+| 124 | Binary Tree Maximum Path Sum | [C](https://hackmd.io/2KJqwI8-T_adWjwWJNH02Q?both) | TT | Hard |
