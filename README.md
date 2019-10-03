@@ -32,8 +32,18 @@
 
 ## 9/18
 
-<!-- * [wiki](https://docs.google.com/document/d/1qDy_fctA5cWag28PVa3kq2N_XUY5hDmXYvBXk2WIe5k/edit) -->
-
 |  No  | Title |  Solution       |  Sharer | Difficulty |
 | ---- | ----- | --------------- | --------| ---------- |
 | 124 | Binary Tree Maximum Path Sum | [C](https://hackmd.io/2KJqwI8-T_adWjwWJNH02Q?both) | TT | Hard |
+
+## 9/25
+
+|  No  | Title |  Solution       |  Sharer | Difficulty |
+| ---- | ----- | --------------- | --------| ---------- |
+| 10 | Regular Expression Matching | [C++](https://hackmd.io/uh8tE26iQOipf5cxHPXDPw) | TT | Hard |
+
+## 10/2
+
+|  No  | Title |  Solution       |  Sharer | Difficulty |
+| ---- | ----- | --------------- | --------| ---------- |
+| 65 | Valid Number | [C](https://hackmd.io/qDWJ4SxFROimSS1nJt1AMg) | TT | Hard |
