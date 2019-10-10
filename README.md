@@ -41,9 +41,11 @@
 |  No  | Title |  Solution       |  Sharer | Difficulty |
 | ---- | ----- | --------------- | --------| ---------- |
 | 10 | Regular Expression Matching | [C++](https://hackmd.io/uh8tE26iQOipf5cxHPXDPw) | TT | Hard |
+| 11 | Container With Most Water     | [C++](https://hackmd.io/@Rance/HJZ35Dldr) | Rance | Medium |
 
 ## 10/2
 
 |  No  | Title |  Solution       |  Sharer | Difficulty |
 | ---- | ----- | --------------- | --------| ---------- |
 | 65 | Valid Number | [C](https://hackmd.io/qDWJ4SxFROimSS1nJt1AMg) | TT | Hard |
+| 42 | Trapping Rain Water | [C++](https://hackmd.io/@Rance/HJZ35Dldr) | Rance | Hard|
