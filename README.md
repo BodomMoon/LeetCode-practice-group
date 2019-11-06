@@ -49,3 +49,9 @@
 | ---- | ----- | --------------- | --------| ---------- |
 | 65 | Valid Number | [C](https://hackmd.io/qDWJ4SxFROimSS1nJt1AMg) | TT | Hard |
 | 42 | Trapping Rain Water | [C++](https://hackmd.io/@Rance/HJZ35Dldr) | Rance | Hard|
+
+## 11/6
+
+|  No  | Title |  Solution       |  Sharer | Difficulty |
+| ---- | ----- | --------------- | --------| ---------- |
+| 4 | Median of Two Sorted Arrays  | [C++](https://hackmd.io/@Rance/HyZSw6DTFB) | Rance | Hard|
